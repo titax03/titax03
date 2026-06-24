@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/titax03/assets/main/nikhil-banner.svg" width="100%" alt="Nikhil Banner" />
-</div>
+<img src="assets/vinayak-banner.svg" width="100%" alt="Vinayak Singh Banner"/>
 <p align="center">
   <a href="linkedin.com/in/vinayak-singh-20b8051b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
