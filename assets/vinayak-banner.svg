@@ -116,7 +116,7 @@
       <tspan fill="#a5d6ff">"projects"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"LUNA"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Sentinel"</tspan><tspan fill="#c9d1d9">],</tspan>
     </text>
     <text x="562" y="131" font-family="JetBrains Mono, monospace" font-size="11">
-      <tspan fill="#a5d6ff">"goals"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"GSSoC &amp; Contributor"</tspan>
+      <tspan fill="#a5d6ff">"goals"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"GSoC"</tspan>
     </text>
     <text x="548" y="151" font-family="JetBrains Mono, monospace" font-size="11" fill="#c9d1d9">}</text>
   </g>
